@@ -1,0 +1,106 @@
+.mk-sys-sign-in {
+  width: 100%;
+  height: 100%;
+}
+.mk-sys-sign-in .ant-btn {
+  font-size: 14px;
+}
+.mk-sys-sign-in .ant-row {
+  height: auto;
+}
+.mk-sys-sign-in .ant-form-item-control-wrapper {
+  height: auto;
+}
+.mk-sys-sign-in .ant-input {
+  font-size: 18px;
+}
+.mk-sys-sign-in a {
+  font-size: 14px;
+}
+.mk-sys-sign-in-header {
+  height: 58px;
+  flex: 0 0 58px;
+  background: #fff;
+  border-bottom: 1px solid #d9d9d9;
+  font-size: 20px;
+  font-weight: bold;
+  flex-direction: row;
+  align-items: center;
+  overflow: hidden;
+}
+.mk-sys-sign-in-header-logo {
+  width: 58px;
+  height: 58px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.mk-sys-sign-in-content {
+  flex: 1;
+  flex-direction: row;
+}
+.mk-sys-sign-in-content-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.mk-sys-sign-in-content-form .mk-form-item {
+  margin-bottom: 30px;
+}
+.mk-sys-sign-in-content-form .ant-form-item-control-wrapper,
+.mk-sys-sign-in-content-form .ant-input-group-wrapper {
+  width: 400px;
+}
+.mk-sys-sign-in-content-form .ant-form-item-control,
+.mk-sys-sign-in-content-form .ant-input-wrapper {
+  height: 50px;
+}
+.mk-sys-sign-in-content-form .mk-input {
+  height: 100%;
+}
+.mk-sys-sign-in-content-form .ant-form-explain {
+  margin-top: 5px;
+}
+.mk-sys-sign-in-content-form-title {
+  text-align: center;
+  font-size: xx-large;
+}
+.mk-sys-sign-in-content-form-mobile .ant-input {
+  padding-left: 32px !important;
+  font-size: large;
+}
+.mk-sys-sign-in-content-form-password {
+  margin-bottom: 20px !important;
+}
+.mk-sys-sign-in-content-form-password .ant-input {
+  padding-left: 32px !important;
+  font-size: large;
+}
+.mk-sys-sign-in-content-form-forget {
+  margin-bottom: 5px !important;
+  height: auto;
+}
+.mk-sys-sign-in-content-form-forget .ant-form-item-control {
+  height: auto;
+}
+.mk-sys-sign-in-content-form-login {
+  margin-bottom: 5px !important;
+}
+.mk-sys-sign-in-content-form-login .mk-btn {
+  width: 100%;
+  height: 100%;
+}
+.mk-sys-sign-in-content-form .ant-input-prefix {
+  font-size: large;
+  color: #ccc;
+}
+.mk-sys-sign-in-footer {
+  height: 50px;
+  flex: 0 0 58px;
+  justify-content: center;
+  align-items: center;
+  background: #fafafa;
+}
+
+
+/*# sourceMappingURL=mk-sys-sign-in.css.map*/
