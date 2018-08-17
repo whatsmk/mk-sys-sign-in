@@ -177,7 +177,7 @@ Object.defineProperty(exports,"__esModule",{value:true});var _mkMetaEngine=__web
 /* 7 */
 /***/ (function(module) {
 
-module.exports = {"isMKApp":true,"name":"mk-sys-sign-in","description":"mk-sys-sign-in","version":"1.0.0","license":"MIT","author":"","keywords":["mk","monkey king","react","redux","mk-js","mk-command","mk-sys-sign-in"],"repository":{"type":"git","url":"https://github.com/whatsmk/mk-sys-sign-in.git"},"bugs":{"url":"https://github.com/whatsmk/mk-sys-sign-in/issues"},"homepage":"https://github.com/whatsmk/mk-sys-sign-in#readme","scripts":{"start":"mk start","build":"mk build","pkg":"mk pkg"},"dependencies":{"md5":"*","mk-command":"*","mk-sdk":"*"}};
+module.exports = {"isMKApp":true,"name":"mk-sys-sign-in","description":"mk-sys-sign-in","version":"1.0.1","license":"MIT","author":"","keywords":["mk","monkey king","react","redux","mk-js","mk-command","mk-sys-sign-in"],"repository":{"type":"git","url":"https://github.com/whatsmk/mk-sys-sign-in.git"},"bugs":{"url":"https://github.com/whatsmk/mk-sys-sign-in/issues"},"homepage":"https://github.com/whatsmk/mk-sys-sign-in#readme","scripts":{"start":"mk start","build":"mk build","pkg":"mk pkg"},"dependencies":{"md5":"*","mk-command":"*","mk-sdk":"*"}};
 
 /***/ }),
 /* 8 */
